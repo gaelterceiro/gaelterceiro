@@ -2,7 +2,7 @@
 
 ###
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=gaelterceiro)](https://github.com/gaelterceiro/github-profile-trophy) 
+[![trophy](https://github-profile-trophy.vercel.app/?username=gaelterceiro&theme=onedark)](https://github.com/gaelterceiro/github-profile-trophy)
 
 
 
