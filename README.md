@@ -2,6 +2,11 @@
 
 ###
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=gaelterceiro)](https://github.com/gaelterceiro/github-profile-trophy) 
+
+
+
+
 <br clear="both">
 
 <div align="center">
