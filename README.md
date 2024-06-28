@@ -2,9 +2,6 @@
 
 ###
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=gaelterceiro&theme=onedark)](https://github.com/gaelterceiro/github-profile-trophy)
-
-
 
 
 <br clear="both">
@@ -12,6 +9,9 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gaelterceiro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=gaelterceiro&theme=onedark)](https://github.com/gaelterceiro/github-profile-trophy) 
 
 ###
 
