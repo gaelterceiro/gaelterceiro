@@ -1,10 +1,13 @@
-<h2 align="center">Hello 👋! I'm Gael. <br>I'm student and aspiring Full-Stack developer &#128187</h2>
+<h2 align="center">Hello 👋! I'm Gael. 
 
 ###
 
 
 
 <br clear="both">
+<div>
+  <p>I'm student and aspiring Full-Stack developer &#128187</p>
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gaelterceiro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
